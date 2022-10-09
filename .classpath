@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="deniz/src"/>
+	<classpathentry kind="src" path="intro/src"/>
+	<classpathentry kind="src" path="loopDemo/src"/>
+	<classpathentry kind="src" path="recapDemoo/src"/>
+	<classpathentry kind="src" path="switchdeMo/src"/>
+	<classpathentry kind="src" path="whileDemo/src"/>
+	<classpathentry kind="output" path="deniz/bin"/>
+</classpath>
